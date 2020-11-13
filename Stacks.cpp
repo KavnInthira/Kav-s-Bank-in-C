@@ -22,6 +22,7 @@ void menu() {
     cout<<"Enter 3: Check Balance \n";
     cout<<"Enter 4: Exit \n";
     cin >> number;
+    options(number);
 
     cout<<"\n";
 }
